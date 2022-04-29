@@ -17,4 +17,5 @@ console.log(array[2]);
 console.log('------------ loop method ------------')
 for (i = 0; i < array.length; i++) {
     console.log(array[i])
+    // console.table(array[i])
 }
